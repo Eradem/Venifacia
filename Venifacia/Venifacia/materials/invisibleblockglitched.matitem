@@ -1,0 +1,13 @@
+{
+  "itemName" : "invisibleblockglitched",
+  "rarity" : "Common",
+  "price" : 5,
+  "inventoryIcon" : "invisibleblockglitched.png",
+  "description" : "Invisible Block",
+  "shortdescription" : "Invisible Block",
+  "glitchDescription" : "Statement. Invisible Block",
+
+  "materialId" : 10000,
+  "itemTags" : [ "Block" ],
+  "category" : "block"
+}
