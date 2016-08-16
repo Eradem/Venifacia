@@ -1,0 +1,13 @@
+{
+  "itemName" : "seethroughblock",
+  "rarity" : "Common",
+  "price" : 5,
+  "inventoryIcon" : "seethroughblock.png",
+  "description" : "Seethroughable Block. Sees through backgrounds.",
+  "shortdescription" : "Seethroughable Block",
+  "glitchDescription" : "Statement. Seethroughable Block",
+
+  "materialId" : 10001,
+  "itemTags" : [ "Block" ],
+  "category" : "block"
+}

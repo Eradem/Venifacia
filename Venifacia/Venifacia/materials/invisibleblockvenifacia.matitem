@@ -1,0 +1,13 @@
+{
+  "itemName" : "invisibleblockvenifacia",
+  "rarity" : "Common",
+  "price" : 5,
+  "inventoryIcon" : "invisibleblockvenifacia.png",
+  "description" : "Invisible Block",
+  "shortdescription" : "Invisible Block",
+  "glitchDescription" : "Statement. Invisible Block",
+
+  "materialId" : 9999,
+  "itemTags" : [ "Block" ],
+  "category" : "block"
+}
