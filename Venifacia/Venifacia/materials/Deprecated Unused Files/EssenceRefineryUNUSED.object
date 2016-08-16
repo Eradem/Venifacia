@@ -1,5 +1,5 @@
 {
-  "objectName" : "essencerefinery",
+  "objectName" : "essencerefineryUNUSED",
   "colonyTags" : ["crafting"],
   "rarity" : "Legendary",
   "category" : "crafting",
@@ -18,10 +18,10 @@
 
   "printable" : false,
 
-  "placementImage" : "essencerefinerypreview2.png",
+  "placementImage" : "essencerefinerypreview2UNUSED.png",
   "placementImagePosition" : [-16, -24],
 
-  "inventoryIcon" : "essencerefineryicon.png",
+  "inventoryIcon" : "essencerefineryiconUNUSED.png",
   "orientations" : [
     {
       "direction" : "left",
@@ -40,8 +40,8 @@
   "animation" : "/objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/anviladdon.animation",
   "animationPosition" : [-8, 0],
   "animationParts" : {
-    "addon" : "essencerefineryspritesheet.png",
-    "addonfullbright" : "essencerefineryspritesheet.png"
+    "addon" : "essencerefineryspritesheetUNUSED.png",
+    "addonfullbright" : "essencerefineryspritesheetUNUSED.png"
   },
 
   "scripts" : [ "/scripts/objectaddons.lua", "/objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/anviladdon.lua" ],
@@ -49,7 +49,7 @@
   "addonConfig" : {
     "isAddons" : [
       {
-        "name" : "essenceRefinery"
+        "name" : "essenceRefineryUNUSED"
       }
     ]
   }

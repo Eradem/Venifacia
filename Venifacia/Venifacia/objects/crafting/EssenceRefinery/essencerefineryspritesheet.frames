@@ -1,0 +1,14 @@
+{
+  "frameGrid" : {
+    "size" : [144, 144],
+    "dimensions" : [15, 1],
+    "names" : [
+      [ "disconnected", "connect.1", "connect.2", "connect.3", "connect.4", "connect.5", "connect.6", "connect.7", "connect.8", "connect.9", "connect.10", "connect.11", "connect.12", "connect.13", "connect.14", "connected.15" ]
+    ]
+  },
+
+  "aliases" : {
+    "default" : "disconnected",
+	"default.default" : "disconnected"
+  }
+}
