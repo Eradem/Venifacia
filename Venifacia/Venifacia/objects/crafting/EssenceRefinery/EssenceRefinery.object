@@ -1,0 +1,52 @@
+{
+  "objectName" : "EssenceRefinery",
+  "colonyTags" : [ "Venifacia" ],
+  "category" : "crafting",
+  "rarity" : "Legendary",
+  "description" : "A machine that converts objects into essences, used for sorcery. Did someone say black magic?",
+  "shortdescription" : "^orange;Essence Refinery^reset;",
+  "race" : "glitch",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingnocategories.config",
+    "filter" : [ "EssenceRefinery" ]
+  },
+  "printable" : false,
+  "price" : 1337,
+
+  "apexDescription" : "A device. Intended for creating something?",
+  "avianDescription" : "It smells like ozone and dirt.",
+  "floranDescription" : "Floran like device, smells like home.",
+  "glitchDescription" : "Statement. This device allows the spawning of a material.",
+  "humanDescription" : "A weird device, I think.",
+  "hylotlDescription" : "A weird device. I wonder what it is for?",
+  "novakidDescription" : "It glows like I do!",
+
+  "inventoryIcon" : "essencerefineryicon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "EssenceRefinery.png:<color>.<frame>", "fullbright" : true }, { "image" : "EssenceRefinery.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-16, -0],
+      "frames" : 15,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "direction" : "right"
+
+    },
+    {
+	  "imageLayers" : [ { "image" : "EssenceRefinery.png:<color>.<frame>", "fullbright" : true }, { "image" : "EssenceRefinery.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-16, -0],
+      "frames" : 15,
+      "animationCycle" : 1.0,
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "direction" : "left"
+
+    }
+  ]
+}
